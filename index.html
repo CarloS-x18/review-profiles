@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Carousel</title>
+    <link rel="stylesheet" href="public/main.css">
+</head>
+<body>
+    <main>
+
+        <section class="section">
+            <h1 class="section__title">Profiles Review</h1>
+            <div class="section__content">
+                <article class="section__article">  
+                    <!-- img profile content -->
+                    <div class="article__img-container">
+                        <img class="article__img" src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Kurt&hairColor=Brown&facialHairType=MoustacheMagnum&facialHairColor=Platinum&clotheType=CollarSweater&clotheColor=Heather&eyeType=WinkWacky&eyebrowType=UpDown&mouthType=Concerned&skinColor=Black'/>
+                        <div class="article__img-after"></div>
+                    </div>
+                    <!-- info profile -->
+                    <h4 class="article__name">Roman Crok</h4>
+                    <p class="article__job">ux designer</p>
+                    <p class="article__info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit recusandae quas, necessitatibus rem aut, optio distinctio praesentium rerum</p>
+                    <!-- buttons preview -->
+                    <div class="article__buttons">
+                        <button class="button__preview" id="btn" value="previous"><img src="public/img/chevron-left.svg" alt="button left"></button>
+                        <button class="button__preview" id="btn" value="next"><img src="public/img/chevron-right.svg" alt="button right"></button>
+                    </div>
+                    <button class="button__random" id="btn" value="random">Surprise Me</button>
+                </article>
+            </div>
+        </section>
+
+    </main>
+    <script src="public/bundle.js"></script>
+</body>
+</html>

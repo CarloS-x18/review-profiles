@@ -1,0 +1,40 @@
+{
+    "profiles": [
+        {
+            "name": "Roman Crok",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Kurt&hairColor=Brown&facialHairType=MoustacheMagnum&facialHairColor=Platinum&clotheType=CollarSweater&clotheColor=Heather&eyeType=WinkWacky&eyebrowType=UpDown&mouthType=Concerned&skinColor=Black",
+            "job": "ux designer",
+            "info": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi rerum quaerat neque doloremque rem repudiandae atque inventore ipsam! Assumenda ducimus "
+        },
+        {
+            "name": "Susan Monroy",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortRound&accessoriesType=Kurt&hairColor=Brown&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray01&eyeType=Default&eyebrowType=UpDown&mouthType=Disbelief&skinColor=Brown",
+            "job": "frontend dev",
+            "info": "Dignissimos vel nihil nam cum neque dolores cumque quidem officia, ut voluptas libero sequi dolore rem nostrum delectus maxime, necessitatibus eaque aliquam"
+        },
+        {
+            "name": "Louis Wheter",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light",
+            "job": "backend dev",
+            "info": "ipsum dolor sit amet consectetur adipisicing elit. Non odit quo deleniti, quod odio iste mollitia totam minima exercitationem deserunt voluptatem reprehenderit"
+        },
+        {
+            "name": "Juan Jimenez",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Wayfarers&hairColor=Platinum&facialHairType=MoustacheFancy&facialHairColor=BlondeGolden&clotheType=ShirtCrewNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Angry&mouthType=Smile&skinColor=Light",
+            "job": "full stack dev",
+            "info": "Neque eveniet voluptas impedit, cumque hic deserunt dolore assumenda sequi placeat recusandae architecto alias quae aspernatur, nihil optio eius reprehenderit"
+        },
+        {
+            "name": "Robert Julianes",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Kurt&facialHairType=BeardMajestic&facialHairColor=BlondeGolden&clotheType=ShirtVNeck&clotheColor=Black&eyeType=Happy&eyebrowType=AngryNatural&mouthType=Twinkle&skinColor=Brown",
+            "job": "data science",
+            "info": "Commodi hic facere, id, optio eveniet harum laborum numquam quod minima ut distinctio at accusantium illum blanditiis deserunt doloribus non perferendis vero"
+        },
+        {
+            "name": "Laura Bouwth",
+            "img_url": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairBob&accessoriesType=Wayfarers&hairColor=Platinum&facialHairType=Blank&facialHairColor=BrownDark&clotheType=Overall&clotheColor=PastelOrange&eyeType=Squint&eyebrowType=Default&mouthType=Smile&skinColor=Black",
+            "job": "mobile dev",
+            "info": "Earum vel vero quos perferendis ea a doloremque eveniet explicabo ut. Quia incidunt delectus, obcaecati ut eveniet sit nihil tempora consectetur ab"
+        } 
+    ]
+}

@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+body {
+    font-family: $font;
+}
+main {
+    height: 100vh;
+    background-color: $bgMain;
+}
+h1, h2, h3, h4 {
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+button {
+    border: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
